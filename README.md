@@ -1,7 +1,8 @@
 ### Hi there, I'm Bernard Chan! 👋
 
 - 🔭 I'm currently a student at UC Berkeley studying Electrical Engineering and Computer Science B.S. with a minor in Data Science
-- 🌱 I love learning new languages and especially creative new algorithms I hadn't known about before 
+- 🌱 I love learning new languages and algorithms 
+- ⚡ Check out my most recent [project]( https://github.com/ohsonali/FlightLineOfTheFuture) streamlining aircraft maintence with the U.S. Department of Defense! 
 - 📫 Please reach me at bernardmc8@berkeley.edu. Thanks! 
 <!--
 **bernardmc8/bernardmc8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
