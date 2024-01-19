@@ -1,6 +1,7 @@
 ### Hi there, I'm Bernard Chan! 👋
 
-- 🔭 I'm currently working as a Software Development Engineer II at Amazon after completing my Electrical Engineering and Computer Science Bachelors of Science degree from UC Berkeley in Spring 2023.
+- 🔭 I'm currently working as a Software Development Engineer II at Amazon
+- 😄 I completed a Bachelors of Science degree in Electrical Engineering and Computer Science from UC Berkeley in Spring 2023.
 - 🌱 I love learning new languages and algorithms 
 - ⚡ Check out my most recent [project]( https://github.com/ohsonali/FlightLineOfTheFuture) streamlining aircraft maintence with the U.S. Department of Defense! 
 - 📫 Please reach me at bernardmc8@berkeley.edu. Thanks! 
